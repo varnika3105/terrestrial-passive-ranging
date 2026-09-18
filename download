@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.mlx.autosave
+
+# Generated datasets
+*.csv
+
+# MATLAB project/cache
+slprj/
+*.prj
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
